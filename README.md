@@ -1,4 +1,4 @@
-# SortWise_WasteClassification
+# SortWise_WasteClassification ♻️🚮
 
 AI-Powered Waste Classification System for Household Recycling Support. ♻️
 
