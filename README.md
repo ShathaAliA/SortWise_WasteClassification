@@ -36,3 +36,14 @@ SortWise_WasteClassification/
 ├── .gitignore                  # Strict filtration rules to bypass binary/log uploads
 ├── app.py                      # Main Streamlit web application & local production pipeline
 └── requirements.txt            # Explicit third-party system dependencies
+```
+## 👥 Team Members & Authors
+Developed by:
+* **Student 1:** **Shatha Ali Alhumaidi**
+* **Student 2:** **Remas Saleh Ghandorah** 
+* **Student 3:** **Khlood Hamed Almasoudi**
+* **Student 4:** **AlJood Yaser Alsaleh**
+* **Student 5:** **Layan Ali Alharbi**
+
+**Course:** AI System Design (AI3104)  
+**Supervisor:** Dr. Hawazan Badawi
